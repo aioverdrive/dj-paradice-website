@@ -7,3 +7,5 @@ header in middle (transparent text)
 abbreviated logo (PD) on top left name on top right (or menu)
 
 make social media icons same color
+
+ensure that this is easy to navigate for any corporate executive
